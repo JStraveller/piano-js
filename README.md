@@ -1,4 +1,4 @@
-## Piano Js
+# Piano Js
 Простое пианино на чистом JS.
 
 ## Demo
