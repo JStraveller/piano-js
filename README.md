@@ -2,4 +2,4 @@
 Простое пианино на чистом JS.
 
 ## Demo
-https://jstraveller.github.io/piano-js/
+https://aaleo402.github.io/piano-js/
